@@ -2,7 +2,7 @@
 
 ## Project Description ## 
 
-This project web scrapes the first ten pages of an ebay search results and storing 10 search result pages in json files. Commands allow the program to scabe different specified information that is eventually stored.  It retrieves the possiblity of returns, name, status, shippng cost, price, and number of items sold for the ebay wegpages. 
+This project web scrapes the first ten pages of an ebay search results and storing 10 search result pages in json files. Commands allow the program to scabe different specified information that is eventually stored.  It retrieves the possiblity of returns, name, status, shipping cost, price, and number of items sold for the ebay wegpages. 
 <br> 
 
 ## How to Run the Program ##
