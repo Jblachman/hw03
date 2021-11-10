@@ -186,15 +186,4 @@ else:
     with open(filename, 'w', encoding='ascii') as f:
         f.write(json.dumps(items))
 
-'''
-if args.csv == True:
-    filename = args.search_term +'.csv'
-    with open(filename,'w', newline ='') as f:
-        fieldnames = ['price', 'status', 'items_sold', 'shipping', 'name', 'free_returns']
-        csvwriter = csv.DictWriter(f, fieldnames = fieldnames)
-        csvwriter.writeheader()
-        for element in items:
-            csvwriter.writerow(element)
-'''
-
 
